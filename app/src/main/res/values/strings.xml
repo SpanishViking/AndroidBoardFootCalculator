@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Board Foot Calculator</string>
+    <string name="enter_length_in_inches">Enter length in Inches</string>
+    <string name="enter_width_in_inches">Enter width in Inches</string>
+    <string name="select_thickness">Select Thickness:</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string-array name="thickness_array">
+        <item>--</item>
+        <item>4/4: About 1 in</item>
+        <item>5/4: About 1.25 in</item>
+        <item>6/4: About 1.5 in</item>
+        <item>7/4: About 1.75 in</item>
+        <item>8/4: About 2 in</item>
+        <item>9/4: About 2.25 in</item>
+        <item>10/4: About 2.5 in</item>
+        <item>11/4: About 2.75 in</item>
+        <item>12/4: About 3 in</item>
+        <item>13/4: About 3.25 in</item>
+        <item>14/4: About 3.5 in</item>
+        <item>15/4: About 3.75 in</item>
+        <item>16/4: About 4 in</item>
+    </string-array>
+</resources>
